@@ -27,7 +27,7 @@ I am an aspiring Cybersecurity Analyst passionate about protecting systems and n
 
 ## Contact
 
-- LinkedIn: *(linkedin.com/in/joseph-ayoola-peters)*
+- LinkedIn: *(https://linkedin.com/in/joseph-ayoola-peters)*
 - GitHub: *(https://github.com/josephayoola)*
 - TryHackMe: *(https://tryhackme.com/p/josephayoola518)*
 
